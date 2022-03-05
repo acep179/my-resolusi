@@ -1,6 +1,6 @@
 MY RESOLUSI
 - Konsisten untuk belajar pemrograman sehari 5 video
-- Membuat website portofolio pribadi
 - Membuatkan website untuk client
 - Mempelajari FrontEnd sampai tuntas
 - Membuat berbagai macam website untuk ditampilkan pada portofolio
+- Mempelajari dasar-dasar BakcEnd
