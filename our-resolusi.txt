@@ -1,0 +1,5 @@
+Halo bro, nama gua Acep Awaludin
+
+Resolusi gua:
+- Membuat website menggunakan SCSS + React.Js
+- Bekerja freelance dengan penghasilan di atas 100jt per bulan
