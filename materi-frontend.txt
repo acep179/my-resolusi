@@ -5,7 +5,9 @@ MATERI FRONTEND YANG AKAN DIPELAJARI
   * React.Js
   * React Native
   * Node.Js
-- Struktur Data Dasar
+  * Angular.Js
+  * Boothstrap
 - PHP Frameworks
+  * Laravel
 - Interview
 - Vlogs
